@@ -1,16 +1,18 @@
 body {
-    background-color:#FF77C2
-}
+    background-color:#FF77C2;
+    padding: 0% 25% 0% 25% ;
+    }
 
 @media only screen and (max-width: 800px) {
     body {
         background-color:#F080FF;
-    }
+           }
 }
 
 @media only screen and (max-width: 700px) {
     body {
          background-color: #9CFFD9;
+         padding: 0% 15% 0% 15%;
     }
  }
 
@@ -23,6 +25,7 @@ body {
     @media only screen and (max-width: 500px) {
         body {
             background-color:#8DA9FF;
+            padding: 0% 5% 0% 5%;
         }
     }
       
@@ -30,6 +33,7 @@ body {
     @media only screen and (max-width: 400px) {
         body {
             background-color: #9874E8;
+            padding: 0% 5% 0% 5%;
         }
     }
     
